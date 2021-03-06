@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         ShapePrinter shapePrinter = new ShapePrinter();
         shapePrinter.printShape(new Circle());
-        shapePrinter.printShape(new foursquare());
+        shapePrinter.printShape(new Foursquare());
         shapePrinter.printShape(new RegularTriangle());
         shapePrinter.printShape(new Sphere());
         shapePrinter.printShape(new Quadrangle());

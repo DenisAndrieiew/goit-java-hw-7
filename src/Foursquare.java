@@ -1,8 +1,5 @@
-public class foursquare extends TwoDShape implements Regular{
-    @Override
-    public String Square() {
-        return "side square";
-    }
+public class Foursquare extends TwoDShape implements Regular{
+
 
     @Override
     public String getName() {

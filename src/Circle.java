@@ -4,10 +4,6 @@ public class Circle extends TwoDShape implements Regular{
         return "Circle";
     }
 
-    @Override
-    public String Square() {
-        return "pi*r^2";
-    }
 
     @Override
     public int getAngle() {
